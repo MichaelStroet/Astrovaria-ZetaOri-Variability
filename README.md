@@ -1,6 +1,5 @@
 # Determining the mass loss variation of the O-type supergiant star ζ Orionis Aa
 ### Astrovaria project 2023
-Student: Michael Stroet
 
 Supervisors: Prof. Dr. Alex de Koter & Frank Backs MSc
 
@@ -10,6 +9,6 @@ After modelling the spectra, I did find a change in the observed values of mass 
 
 The written report is currently under review and will be added to this repository at a later date.
 
-The observations used were taken in 2018 by Annelotte Derkink MSc and Anniek Gloudemans MSc using the HERMES instrument of the Mercator telescope on La Palma.
+The observations used were taken in 2018 by Annelotte Derkink and Anniek Gloudemans using the HERMES instrument of the Mercator telescope on La Palma.
 
 The version of FASTWIND used during this project is V10.6.
