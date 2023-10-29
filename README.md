@@ -1,6 +1,7 @@
 # Determining the mass loss variation of the O-type supergiant star ζ Orionis Aa
 ### Astrovaria project 2023
 Student: Michael Stroet
+
 Supervisors: Prof. Dr. Alex de Koter & Frank Backs MSc
 
 In this project, I used the stellar atmospheric modelling code FASTWIND to model observations of the O-type supergiant Zeta Ori with the aim of investigating the origin of the observed spread in mass loss through stellar winds as a function of luminosity. The potential cause I have investigated in this project, is a variability in the mass loss of a star as the observed spread in values uses only single measurements of mass loss per star.
